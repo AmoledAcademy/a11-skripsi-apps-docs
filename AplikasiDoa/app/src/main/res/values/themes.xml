@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kumpulan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/list</item>
+        <item name="colorPrimaryVariant">@color/list</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/back_search</item>
+        <item name="colorSecondaryVariant">@color/back_search</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/white</item>
+
+
+
+    </style>
+
+
+    <style name="Theme.Kumpulan" parent="Base.Theme.Kumpulan" />
+</resources>

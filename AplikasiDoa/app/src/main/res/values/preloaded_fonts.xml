@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amiri</item>
+        <item>@font/amiri_bold</item>
+        <item>@font/amiri_bold_italic</item>
+        <item>@font/amiri_quran</item>
+        <item>@font/montserrat_medium</item>
+        <item>@font/tinos_italic</item>
+        <item>@font/traditional_arabic</item>
+    </array>
+</resources>
