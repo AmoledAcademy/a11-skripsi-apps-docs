@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "296945240854",
+    "firebase_url": "https://franctionapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "franctionapp",
+    "storage_bucket": "franctionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296945240854:android:eb5077a5cbd96e278c1e37",
+        "android_client_info": {
+          "package_name": "com.example.franccompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNqpMposbDU026uO16KZwoJ0QiposR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296945240854:android:0090680e8e4dd9238c1e37",
+        "android_client_info": {
+          "package_name": "com.unidagontor.franctionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNqpMposbDU026uO16KZwoJ0QiposR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
