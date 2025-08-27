@@ -1,0 +1,2 @@
+D:\00. Project SKRIPSI\MYP-1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\00. Project SKRIPSI\MYP-1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

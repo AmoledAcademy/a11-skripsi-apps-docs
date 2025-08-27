@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="komponenvektorr3" size="0.150000 0.225212" />
+    <ImageTarget name="perkalianskalarr2" size="0.150000 0.225212" />
+    <ImageTarget name="penjumlahanvektorr2" size="0.150000 0.225212" />
+    <ImageTarget name="penguranganvektorr2" size="0.150000 0.225212" />
+    <ImageTarget name="perkalianskalarr3" size="0.150000 0.225212" />
+    <ImageTarget name="penjumlahanvektorr3" size="0.150000 0.225212" />
+    <ImageTarget name="penguranganvektorr3" size="0.150000 0.225212" />
+    <ImageTarget name="komponenvektorr2" size="0.150000 0.225212" />
+  </Tracking>
+</QCARConfig>
