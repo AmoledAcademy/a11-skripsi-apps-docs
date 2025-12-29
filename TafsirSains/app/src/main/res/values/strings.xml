@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tafsir Sains App</string>
+    <string name="sample_book_title">Haidar Bagir Alfahmi</string>
+    <string name="sample_book_synopsis">Haidar Bagir Alfahmi</string>
+    <string name="description_1">Haidar Bagir Alfahmi</string>
+    <string name="description_2">Haidar Bagir Alfahmi</string>
+    <string name="description_3">Haidar Bagir Alfahmi</string>
+    <string name="description_4">Haidar Bagir Alfahmi</string>
+    <string name="description_5">Haidar Bagir Alfahmi</string>
+    <string name="description_6">Haidar Bagir Alfahmi</string>
+    <string name="description_7">Haidar Bagir Alfahmi</string>
+    <string name="description_8">Haidar Bagir Alfahmi</string>
+    <string name="description_9">Haidar Bagir Alfahmi</string>
+    <string name="description_10">Haidar Bagir Alfahmi</string>
+
+
+    <string name="example">Example</string>
+    <string name="arab">عربي</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">English</string>
+
+
+    <string name="get_started">Get Started</string>
+    <string name="back_button_description">back\n</string>
+    <string name="search">Search </string>
+    <string name="language_button">language button</string>
+    
+    
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read_book">Read Book</string>
+    <string name="recomended_nbook">Recomended\nBook</string>
+    <string name="arablanguage">Arab</string>
+    <string name="englishlanguage">English</string>
+    <string name="indonesialanguage">Indonesia</string>
+    
+    <string name="Lampiran"><a href ="https://drive.google.com/file/d/1yWD4wWzYo_IQFqfq7TVlHXBESdEdWHew/view?usp=sharing">Privacy Policy and Terms of Use.</a></string>
+
+
+</resources>
+
