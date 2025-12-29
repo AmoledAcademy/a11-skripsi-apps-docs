@@ -6,8 +6,8 @@
 
 > ## Persyaratan Project
 1. Nama package aplikasi tidak boleh mengandung kata: ***com.example.***
-2. Min SDK 21 (Android 5.0)
-3. Target SDK 33 (Android 13)
+2. Min SDK 26 (Android 8)
+3. Target SDK 35 (Android 15)
 4. Tambahkan _Readme.md_ pada project Antum (penjelasan tentang Aplikasi Antum)
 
 > ## Cara Upload ke Repository
