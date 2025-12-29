@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126672160549",
+    "project_id": "kumpulandoa-4ff67",
+    "storage_bucket": "kumpulandoa-4ff67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126672160549:android:ad7ef290359ec256927ccc",
+        "android_client_info": {
+          "package_name": "com.example.kumpulan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtBw_EQlYX-mbmucsZG3bcWlzHYwHIqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

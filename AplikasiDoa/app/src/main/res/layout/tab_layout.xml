@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tab_selection"
+    android:orientation="horizontal"
+    android:padding="2dp">
+
+    <TextView
+        android:id="@+id/tv_home"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="?attr/colorOnSecondary"
+        android:background="@drawable/tab_background"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="Home"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_jadwal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="?attr/colorOnSecondary"
+        android:background="@drawable/tab_background"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="Jadwal"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_favorite"
+        android:textColor="?attr/colorOnSecondary"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/tab_background"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="Favorite"
+        android:textSize="14sp" />
+
+</LinearLayout>
